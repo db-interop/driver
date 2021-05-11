@@ -1,0 +1,13 @@
+{
+    "name": "db-interop/driver",
+    "description": "Database driver interface",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DbInterop/Driver": "src/"
+        }
+    }
+}
